@@ -1,0 +1,4 @@
+{
+    "DOWNLOAD_ROOT": "https://raw.githubusercontent.com/ageron/handson-ml2/master/",
+    "HOUSING_PATH": "datasets/housing"
+}
